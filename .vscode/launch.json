@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Practice my skill C",
-      "program": "d:/Practice my skill C/build/Debug/outDebug",
+      "cwd": "d:/Practice my skill C/Q4",
+      "program": "d:/Practice my skill C/Q4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
